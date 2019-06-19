@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Облачная" фискализация
+title: Облачная фискализация
 nav_order: 2
 ---
 
