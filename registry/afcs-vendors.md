@@ -2,7 +2,7 @@
 layout: default
 title: Реестр разработчиков АСОП
 parent: Реестры
-nav_order: 2
+nav_order: 1
 ---
 
 
