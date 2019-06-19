@@ -3,7 +3,7 @@ layout: default
 title: Home
 nav_order: 1
 description: "Документация и спецификации, разработанные АОАСОП"
-permalink: /
+#permalink: /
 ---
 
 ## АОАСОП. Документация
